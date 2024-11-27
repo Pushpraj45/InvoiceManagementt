@@ -1,14 +1,4 @@
-# Invoice Management System
 
-A full-stack Invoice Management System with a Django REST Framework backend and React frontend.
-
-## Author  
-**Tanjul Sarathe**  
-Email: [sarathetanjul@gmail.com](mailto:sarathetanjul@gmail.com)  
-
-Deployed Project: [Live Demo](https://invoice-mgmt-system-frontend-tanjul.vercel.app/)  
-
----
 
 ## Features  
 
@@ -169,12 +159,6 @@ Deployed Project: [Live Demo](https://invoice-mgmt-system-frontend-tanjul.vercel
       ]
     }
     ```
-
----
-## Deployment  
-
-1. **Frontend**: [Vercel Deployment](https://invoice-mgmt-system-frontend-tanjul.vercel.app/)  
-2. **Backend**: [Vercel Deployment](https://invoice-mgmt-system-backend-tanjul.vercel.app/)  
 
 ### Bonus Features (Optional)  
 - Unit tests for both frontend and backend  
