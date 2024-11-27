@@ -309,7 +309,7 @@ const InvoiceManagement = () => {
       </div>
 
       <footer className="mt-16 text-center text-gray-500 text-sm">
-        Created by Devendra Kumar Sahu
+        Created by Pushpraj Dubey
       </footer>
     </div>
   );
